@@ -2,3 +2,4 @@ node_modules/
 build/
 neardev/
 .idea
+dist/
